@@ -1,3 +1,0 @@
-Test by Tran Thanh Trong
-This is not the same file with the outside one. This is inside the folder Q11
-That's all.
